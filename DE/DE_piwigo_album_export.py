@@ -16,7 +16,7 @@ import zipfile
 import mysql.connector
 from datetime import datetime
 
-UPLOAD_DIR = "/media/USB/upload/"
+UPLOAD_DIR = "PFAD ZUM UPLOAD-ORDNER" ## hier muss der genaue upload-Pfad eingefügt werden ##
 OUTPUT_DIR = "exported_albums"
 LOG_FILE = "fehlgeschlagene_bilder.log"
 FINISH_LOG = "finish.log"
@@ -40,9 +40,9 @@ while True:
 
 conn = mysql.connector.connect(
     host="localhost",
-    user="piwigo_user",
-    password="piwigo_pass",
-    database="piwigo"
+    user="piwigo_user", ## DATENBANKUSER ##
+    password="piwigo_pass", ## DATENBANKPASSWORT ##
+    database="piwigo" ## DATENBANKNAME ##
 )
 cursor = conn.cursor()
 
