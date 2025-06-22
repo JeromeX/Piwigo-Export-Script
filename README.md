@@ -50,3 +50,4 @@ Darauf achten, das lese-schreibzugriff gegen ist
 ![image](https://github.com/user-attachments/assets/625f2043-c4e5-4410-8680-704236534b76)
 --
 ![image](https://github.com/user-attachments/assets/36618f9f-1b27-43ef-b66c-0a0af3d68d3a)
+![2025-06-23 00_08_04-Piwigo Export Report und 3 weitere Seiten - Malte Speck – Microsoft​ Edge](https://github.com/user-attachments/assets/37d27562-7ce4-411f-b61d-5f3ee71c4cc0)
