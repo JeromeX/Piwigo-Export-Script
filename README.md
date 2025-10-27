@@ -1,4 +1,4 @@
-
+This is a Python3 script that allows you to export all your images with all categories. The tool then creates a log with the missing images, a final log and an HTML log file.
 
 Minimum requirements:
 
